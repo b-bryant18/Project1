@@ -1,5 +1,6 @@
 /* Tint for background image */
 #container {
+  height: 768px;
   background-image:
   linear-gradient(
   rgba(0, 0, 0, 0.5),
